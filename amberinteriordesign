@@ -1,0 +1,369 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head> <script type="text/javascript">if(!gform){window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded?o():window.addEventListener("DOMContentLoaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}}</script>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<link rel="alternate" type="application/rss+xml" title="Amber Interiors RSS Feed" href="http://amberinteriordesign.com/feed/" />
+	<link rel="pingback" href="http://amberinteriordesign.com/xmlrpc.php" />
+	
+	<!-- Legacy IE Support For HTML5 Tags -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link rel="shortcut icon" type="image/x-icon" href="http://amberinteriordesign.com/wp-content/uploads/2018/10/favicon.png" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39211763-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39211763-1');
+</script>
+
+<title>Home | Amber Interiors</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://amberinteriordesign.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home | Amber Interiors" />
+<meta property="og:description" content="Amber Interiors Design Studio is a full-service interior design firm based in Los Angeles, California, founded by Amber Lewis. We serve clients worldwide with services ranging from interior design, interior architecture to furniture design. LEARN MORE" />
+<meta property="og:url" content="http://amberinteriordesign.com/" />
+<meta property="og:site_name" content="Amber Interiors" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Amber Interiors Design Studio is a full-service interior design firm based in Los Angeles, California, founded by Amber Lewis. We serve clients worldwide with services ranging from interior design, interior architecture to furniture design. LEARN MORE" />
+<meta name="twitter:title" content="Home | Amber Interiors" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://amberinteriordesign.com/#organization","name":"Amber Interior Design","url":"http://amberinteriordesign.com/","sameAs":["https://www.pinterest.com/amberinteriors/","http://instagram.com/amberinteriors"],"logo":{"@type":"ImageObject","@id":"http://amberinteriordesign.com/#logo","url":"http://amberinteriordesign.com/wp-content/uploads/2018/10/logo-dark.png","width":300,"height":312,"caption":"Amber Interior Design"},"image":{"@id":"http://amberinteriordesign.com/#logo"}},{"@type":"WebSite","@id":"http://amberinteriordesign.com/#website","url":"http://amberinteriordesign.com/","name":"Amber Interiors","description":"Design Studio - CA.","publisher":{"@id":"http://amberinteriordesign.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://amberinteriordesign.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://amberinteriordesign.com/#webpage","url":"http://amberinteriordesign.com/","inLanguage":"en-US","name":"Home | Amber Interiors","isPartOf":{"@id":"http://amberinteriordesign.com/#website"},"about":{"@id":"http://amberinteriordesign.com/#organization"},"datePublished":"2018-10-12T15:14:18+00:00","dateModified":"2021-10-08T04:56:56+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<meta property="og:image" content="/home/lwpb3zebzmym/public_html/wp-content/themes/amber-interiors-110/_static/images/default-image.jpg"/>
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v6.8.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-39211763-1"  type="text/javascript" data-cfasync="false" async></script>
+			<script type="text/javascript" data-cfasync="false">
+				var em_version = '6.8.0';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-39211763-1';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( em_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dNDMyYj' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-39211763-1', {
+						forceSSL:true,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+										if ( args.hasOwnProperty(arg) && gaMap.hasOwnProperty(arg) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by ExactMetrics -->
+		<link rel='stylesheet' id='wp-block-library-css'  href='http://amberinteriordesign.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='typekit-css'  href='https://use.typekit.net/mtq4boz.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-pt-sans-narrow-css'  href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow%3A400%2C700&#038;ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-montserrat-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-acumin-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/fonts/acumin/acumin.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-garamond-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/fonts/garamond/garamond.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-blair-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/fonts/MyFontsWebfontsKit.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://use.fontawesome.com/releases/v5.1.0/css/all.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/style.css?ver=1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='vanilla-styles-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/vanilla-style.css?ver=1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='browser-styles-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/styles/browser-specific-styles.css?ver=1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='aimsition-styles-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/plugins/animsition/animsition.min.css?ver=5.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='acf_jig_justified_css-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/acf-addons/acf-justified-image-grid/css/justifiedGallery.css?ver=3.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='acf_jig_swipe_css-css'  href='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/acf-addons/acf-justified-image-grid/js/swipebox/css/swipebox.css?ver=1.3.0.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/amberinteriordesign.com","hash_tracking":"false","ua":"UA-39211763-1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=6.8.0'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/releases/v5.1.0/js/all.js?ver=5.1.0'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js?ver=5.1.0'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/js/scrollreveal.min.js?ver=4.0.0'></script>
+<link rel='https://api.w.org/' href='http://amberinteriordesign.com/wp-json/' />
+<link rel='shortlink' href='http://amberinteriordesign.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://amberinteriordesign.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Famberinteriordesign.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://amberinteriordesign.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Famberinteriordesign.com%2F&#038;format=xml" />
+</head>
+
+<body class="home page-template page-template-_templates page-template-template_home page-template-_templatestemplate_home-php page page-id-7 page-home">
+
+	<div id="outer-wrapper">
+
+		<header id="top-header">
+
+			<div class="container">
+				
+				<a id="slideout-trigger-nav" class="menu-trigger menu-closed" href="#">Menu</a>
+
+			</div>
+
+			<nav id="main-menu-container">
+
+									<a href="http://amberinteriordesign.com" target="_self">
+						<img src="http://amberinteriordesign.com/wp-content/uploads/2018/10/logo-light.png" alt="Amber Interiors" id="nav-logo" class="stamp-logo" />
+					</a>
+				
+				<menu id="main-menu">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="menu-item menu-item-type-post_type_archive menu-item-object-project menu-item-142 depth-1 object-id-36"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/projects/">Projects</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45 depth-1 object-id-43"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92 depth-1 object-id-90"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/press/">Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132 depth-1 object-id-130"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2370 depth-1 object-id-1683"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2365 depth-1 object-id-2323"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/about/made-for-living-by-amber-lewis/">‘Made For Living’ by Amber Lewis</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2722 depth-1 object-id-2711"><a class="w-nav-link nav-link" style="max-width: 1170px;"  href="http://amberinteriordesign.com/call-it-home-by-amber-lewis/">&#8216;Call it Home&#8217; by Amber Lewis</a></li>
+</ul></div>				</menu>
+
+
+
+				<div id="social-links">
+
+													<a href="http://instagram.com/amberinteriors" target="_blank" class="social-link">
+														<i class="fa fa-instagram"></i>
+															</a>
+															<a href="https://www.pinterest.com/amberinteriors/" target="_blank" class="social-link">
+														<i class="fa fa-pinterest-p"></i>
+															</a>
+												
+					<div id="home-bottom"><div class="menu-home-bottom-container"><ul id="menu-home-bottom" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-378 depth-1 object-id-378"><a class="w-nav-link nav-link" style="max-width: 1170px;"  target="_blank" href="https://allsortsof.com/">All Sorts Of</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379 depth-1 object-id-379"><a class="w-nav-link nav-link" style="max-width: 1170px;"  target="_blank" href="https://shoppe.amberinteriordesign.com/">Shoppe</a></li>
+</ul></div></div>
+
+				</div>
+
+
+			</nav>
+
+						<div id="home-info">
+
+									<img class="stamp-logo" src="http://amberinteriordesign.com/wp-content/uploads/2018/10/logo-light.png" />
+				
+				<section id="home-content">
+					<p><span class="color-grey" style="font-size: 15px;">Amber Interiors Design Studio is a full-service interior design firm based in Los Angeles, California, founded by Amber Lewis.</span></p>
+<p><span class="color-grey" style="font-size: 15px;">We serve clients worldwide with services ranging from interior design, interior architecture to furniture design.</span></p>
+<a class="button" href="http://amberinteriordesign.com/about/">LEARN MORE</a>
+				</section>
+
+			</div>
+			
+		</header>
+
+		<div id="content-wrapper">
+			<div id="menu-overlay" class="menu-trigger"></div>
+
+<div id="home-slide">
+
+	<img class="logo fade-on-load-2" src="http://amberinteriordesign.com/wp-content/uploads/2018/10/logo-admin.png" alt="Amber Interiors" />
+			<div class="opening-image">
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/10/lonesome-1702-1-2000x1339.jpg);" ></div>
+				
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/10/Brentwood-566-Edit-2-2000x1334.jpg);" ></div>
+				
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/10/Boardwalk-475-Edit-Edit-1-2000x1334.jpg);" ></div>
+				
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/10/Toluca-953-1334x2000.jpg);" ></div>
+				
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/01/isaac-amber-interiors-10-8-205X4A5059-HDR-Edit-web-2000x1334.jpg);" ></div>
+				
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/10/Brentwood-342-Edit-Edit-2000x1334.jpg);" ></div>
+				
+		
+							<div class="single-slide" style="background-image: url(http://amberinteriordesign.com/wp-content/uploads/2021/01/isaac-amber-interiors-10-8-205X4A4648-2-Edit-web-2000x1334.jpg);" ></div>
+				
+			</div><div id="overlay"></div>
+	
+</div>
+
+<div style="clear:both;"></div>
+
+</div><!--CONTAINER-->
+
+</div><!--OUTER WRAPPER-->
+
+
+<script type="text/javascript">
+  if ( undefined !== window.jQuery ) {
+    
+	// Page Transitions
+jQuery(function($) {
+        "use strict";
+    $('.animsition').animsition();
+  });
+  
+  }
+</script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js?ver=2.8.3'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/js/browser-detect.js?ver=1.0'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/js/acf-yoast.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/js/slick-min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_static/js/main.js?ver=1.10'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/plugins/animsition/animsition.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/acf-addons/acf-justified-image-grid/js/jquery.justifiedGallery.js?ver=3.5.4'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/acf-addons/acf-justified-image-grid/js/swipebox/js/jquery.swipebox.min.js?ver=1.3.0.2'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-content/themes/amber-interiors-110/_includes/acf-addons/acf-justified-image-grid/js/acf-jig-custom.js?ver=1.2.0'></script>
+<script type='text/javascript' src='http://amberinteriordesign.com/wp-includes/js/wp-embed.min.js?ver=5.3.15'></script>
+
+
+</body>
+</html>
